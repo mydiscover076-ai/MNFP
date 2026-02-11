@@ -1,0 +1,7 @@
+{
+  "name": "MNFP AI Fashion Hub",
+  "description": "A high-end, AI-powered fashion commerce platform featuring live shopping, AI body scanning, and intelligent style consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
